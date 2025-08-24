@@ -1,2 +1,7 @@
-edu\dosw\lab\Laboratorio_2_CVDS_DOSW_01\Application.class
-edu\dosw\lab\Laboratorio_2_CVDS_DOSW_01\Laboratorio2CvdsDosw01Application.class
+edu\dosw\lab\util\BasicTechnician.class
+edu\dosw\lab\util\Ticket.class
+edu\dosw\lab\util\Technical.class
+edu\dosw\lab\comportamiento\Reto6SoporteTecnico.class
+edu\dosw\lab\Application.class
+edu\dosw\lab\util\IntermediateTechnician.class
+edu\dosw\lab\util\AdvancedTechnician.class

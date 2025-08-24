@@ -61,7 +61,7 @@
                 <artifactId>exec-maven-plugin</artifactId>
                 <version>3.1.0</version>
                 <configuration>
-                    <mainClass>edu.dosw.lab.Laboratorio_2_CVDS_DOSW_01.Application</mainClass>
+                    <mainClass>edu.dosw.lab.Application</mainClass>
                 </configuration>
             </plugin>
         </plugins>
