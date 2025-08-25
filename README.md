@@ -13,3 +13,11 @@
 
 ## ✔ Retos Completados
 
+## Reto 6: Soporte Tecnico
+## Evidencia Codigo Implementado
+
+
+## Evidencia Solución
+
+
+##

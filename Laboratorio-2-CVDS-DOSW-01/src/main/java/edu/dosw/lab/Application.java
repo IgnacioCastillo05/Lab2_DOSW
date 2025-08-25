@@ -1,5 +1,5 @@
 package edu.dosw.lab;
-import edu.dosw.lab.comportamiento.Reto6SoporteTecnico;
+import edu.dosw.lab.comportamiento.Reto6TechnicalSupport;
 
 public class Application {
     public static void main(String[] args) {
@@ -21,7 +21,7 @@ public class Application {
 
 
         //Llamada a reto 6
-        Reto6SoporteTecnico.ejecutar(args);
+        Reto6TechnicalSupport.ejecutar(args);
 
         //Llamada a reto 7
 
