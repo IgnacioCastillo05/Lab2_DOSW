@@ -49,15 +49,15 @@ Se creó una clase abstracta tecnico, donde cada uno sabia quien era el siguient
 **Evidencia Codigo Implementado**
 -Solo se agregó el codigo del Main del reto, para no congestionar de imagenes el README.
 <p align="center">
-	<img src="Laboratorio-2-CVDS-DOSW-01/docs/imagenes/Reto7/Reto7MagicalControl-Code/Reto01MagicControl01.png" alt="Evidencia Código Magic Control 1" width="600"/>
-	<img src="Laboratorio-2-CVDS-DOSW-01/docs/imagenes/Reto7/Reto7MagicalControl-Code/Reto01MagicControl02.png" alt="Evidencia Código Magic Control 2" width="600"/>
+	<img src="Laboratorio-2-CVDS-DOSW-01/docs/imagenes/Reto7/Reto7MagicalControl-Code/Reto01MagicControl01.png" alt="Evidencia Código Magic Control 1" width="400"/>
+	<img src="Laboratorio-2-CVDS-DOSW-01/docs/imagenes/Reto7/Reto7MagicalControl-Code/Reto01MagicControl02.png" alt="Evidencia Código Magic Control 2" width="400"/>
 </p>
 
 **Evidencia Solución**
 
 <p align="center">
-	<img src="Laboratorio-2-CVDS-DOSW-01/docs/imagenes/Reto7/Reto7MagicalControl-Solution/Reto7Solution01.png" alt="Evidencia Solución Magic Control 1" width="600"/>
-	<img src="Laboratorio-2-CVDS-DOSW-01/docs/imagenes/Reto7/Reto7MagicalControl-Solution/Reto7Solution02.png" alt="Evidencia Solución Magic Control 2" width="600"/>
+	<img src="Laboratorio-2-CVDS-DOSW-01/docs/imagenes/Reto7/Reto7MagicalControl-Solution/Reto7Solution01.png" alt="Evidencia Solución Magic Control 1" width="400"/>
+	<img src="Laboratorio-2-CVDS-DOSW-01/docs/imagenes/Reto7/Reto7MagicalControl-Solution/Reto7Solution02.png" alt="Evidencia Solución Magic Control 2" width="400"/>
 </p>
 
 **Explicación Codigo (Diseño e implementación)**
