@@ -1,4 +1,3 @@
-
 package edu.dosw.lab.comportamiento;
 
 import java.util.Scanner;
