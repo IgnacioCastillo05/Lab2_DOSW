@@ -1,4 +1,4 @@
-package edu.dosw.lab.util;
+package edu.dosw.lab.util.Reto6;
 
 /**
  * Clase abstracta base para los técnicos de soporte.

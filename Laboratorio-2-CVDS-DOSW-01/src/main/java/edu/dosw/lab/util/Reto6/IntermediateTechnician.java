@@ -1,4 +1,4 @@
-
+package edu.dosw.lab.util.Reto6;
 /**
  * Técnico intermedio. Solo resuelve tickets de nivel 2 y prioridad 1 o 2.
  */

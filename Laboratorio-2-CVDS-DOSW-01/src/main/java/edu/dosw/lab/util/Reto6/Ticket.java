@@ -1,4 +1,4 @@
-package edu.dosw.lab.util;
+package edu.dosw.lab.util.Reto6;
 
 /**
  * Clase que representa un ticket de soporte técnico.

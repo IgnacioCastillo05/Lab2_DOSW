@@ -1,10 +1,10 @@
 package edu.dosw.lab.comportamiento;
 
-import edu.dosw.lab.util.AdvancedTechnician;
-import edu.dosw.lab.util.BasicTechnician;
-import edu.dosw.lab.util.IntermediateTechnician;
-import edu.dosw.lab.util.Technical;
-import edu.dosw.lab.util.Ticket;
+import edu.dosw.lab.util.Reto6.AdvancedTechnician;
+import edu.dosw.lab.util.Reto6.BasicTechnician;
+import edu.dosw.lab.util.Reto6.IntermediateTechnician;
+import edu.dosw.lab.util.Reto6.Technical;
+import edu.dosw.lab.util.Reto6.Ticket;
 
 import java.util.*;
 import java.util.stream.Collectors;

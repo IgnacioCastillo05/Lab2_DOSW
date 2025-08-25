@@ -1,5 +1,7 @@
+
 package edu.dosw.lab;
 import edu.dosw.lab.comportamiento.Reto6TechnicalSupport;
+import edu.dosw.lab.comportamiento.Reto7MagicControl;
 
 public class Application {
     public static void main(String[] args) {
@@ -21,10 +23,10 @@ public class Application {
 
 
         //Llamada a reto 6
-        Reto6TechnicalSupport.ejecutar(args);
+        //Reto6TechnicalSupport.ejecutar(args);
 
         //Llamada a reto 7
-
+        Reto7MagicControl.ejecutar(args);
 
         //Llamada a reto 8
 

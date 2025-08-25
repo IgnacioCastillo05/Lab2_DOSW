@@ -1,4 +1,4 @@
-package edu.dosw.lab.util;
+package edu.dosw.lab.util.Reto6;
 
 /**
  * Técnico básico. Solo resuelve tickets de nivel 1 y prioridad 1.
