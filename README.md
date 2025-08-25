@@ -14,10 +14,16 @@
 ## ✔ Retos Completados
 
 ## Reto 6: Soporte Tecnico
-## Evidencia Codigo Implementado
+**Evidencia Codigo Implementado**
 
 
-## Evidencia Solución
+
+**Evidencia Solución**
+
+<p align="center">
+	<img src="docs/imagenes/Reto6/Reto6SupportTechnical-Solutions/Reto6TechnicalSupportMain-Solution01.png" alt="Evidencia Solución 1" width="600"/>
+	<img src="docs/imagenes/Reto6/Reto6SupportTechnical-Solutions/Reto6TechnicalSupportMain-Solution02.png" alt="Evidencia Solución 2" width="600"/>
+</p>
 
 
-##
+**Explicación Codigo (Diseño e implementación)**
