@@ -18,10 +18,10 @@
 **Evidencia Codigo Implementado**
 
 <p align="center">
-	<img src="docs/imagenes/Reto6/Reto6SupportTechnical-Code/Reto6TechnicalSupportMain01.png" alt="Evidencia Código 1" width="600"/>
-	<img src="docs/imagenes/Reto6/Reto6SupportTechnical-Code/Reto6TechnicalSupportMain02.png" alt="Evidencia Código 2" width="600"/>
-	<img src="docs/imagenes/Reto6/Reto6SupportTechnical-Code/Reto6TechnicalSupportMain03.png" alt="Evidencia Código 3" width="600"/>
-	<img src="docs/imagenes/Reto6/Reto6SupportTechnical-Code/Reto6TechnicalSupportMain04.png" alt="Evidencia Código 4" width="600"/>
+	<img src="Laboratorio-2-CVDS-DOSW-01/docs/imagenes/Reto6/Reto6SupportTechnical-Code/Reto6TechnicalSupportMain01.png" alt="Evidencia Código 1" width="600"/>
+	<img src="Laboratorio-2-CVDS-DOSW-01/docs/imagenes/Reto6/Reto6SupportTechnical-Code/Reto6TechnicalSupportMain02.png" alt="Evidencia Código 2" width="600"/>
+	<img src="Laboratorio-2-CVDS-DOSW-01/docs/imagenes/Reto6/Reto6SupportTechnical-Code/Reto6TechnicalSupportMain03.png" alt="Evidencia Código 3" width="600"/>
+	<img src="Laboratorio-2-CVDS-DOSW-01/docs/imagenes/Reto6/Reto6SupportTechnical-Code/Reto6TechnicalSupportMain04.png" alt="Evidencia Código 4" width="600"/>
 </p>
 
 
